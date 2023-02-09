@@ -1,6 +1,6 @@
 # Tools-Rainfall_Discharge_Sim
 
-These models has been built within the framework of KARMA Project.
+These models have been built within the framework of KARMA Project.
 
 This folder contains 4 Multiphysics models that simulates rainfall-discharge hydrodynamics
 
